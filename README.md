@@ -1,4 +1,4 @@
 haiku-type-specs
 ================
 
-Type specs for the haiku paper project
+First draft for the Haiku paper project, adding fonts, playing with CSS.
