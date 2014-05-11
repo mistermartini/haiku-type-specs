@@ -1,0 +1,38 @@
+body {
+	 padding: 0;
+	 font-size: 16px;
+	 line-height: 25.875px;
+	 font-family: 'HelveticaNeueETW01-55Rg';
+}
+
+div.wrapper {
+	 width: 800px;
+	 margin: 0 auto;
+	 padding: 50px 0;
+}
+
+.pt {
+	 font-family: 'PT Serif';
+}
+
+.alegreya {
+	 font-family: 'Alegreya';
+	 font-weight: 400;
+	 font-style: normal;
+}
+
+.gentium {
+	 font-family: 'Gentium Basic';
+	 font-weight: 400;
+	 font-style: normal;
+}
+
+.crimson {
+	font-family: 'Crimson Text', serif;
+}
+
+h2 {
+	font-size: 2em;
+	line-height: 1.5;
+}
+
