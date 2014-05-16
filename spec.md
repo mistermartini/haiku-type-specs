@@ -3,4 +3,4 @@
 
 ![Latest screenshot](/images/screenshot.png)
 
-Removed Kanji, cleaned up layout
+Moved author to bottom to focus more on the poem.	
