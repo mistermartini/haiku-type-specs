@@ -3,4 +3,4 @@
 
 ![Latest screenshot](/images/screenshot.png)
 
-Added Japanese to Author name, changed font to Garamond
+Removed Kanji, cleaned up layout
