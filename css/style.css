@@ -5,31 +5,37 @@ body {
 	 font-family: 'HelveticaNeueETW01-55Rg';
 }
 
-div.wrapper {
-	 width: 800px;
-	 margin: 0 auto;
-	 padding: 50px 0;
-}
 
-.pt {
-	 font-family: 'PT Serif';
-}
-
-.alegreya {
-	 font-family: 'Alegreya';
-	 font-weight: 400;
-	 font-style: normal;
-}
-
-.gentium {
-	 font-family: 'Gentium Basic';
-	 font-weight: 400;
-	 font-style: normal;
-}
-
-.crimson {
+.haiku {
 	font-family: 'Crimson Text', serif;
+	font-size:  .8em;
+	font-weight: 400;
+	line-height:  1.7em;
+
 }
+
+.author {
+	font-family: 'Karla', sans-serif;
+	font-size:  .7em;
+	font-weight: 400i;
+	color: #999;
+	line-height:  1.7em;
+	text-align: right;
+            font-style: italic;
+
+}
+
+.meta {
+	font-family: 'Karla', sans-serif;
+	font-size:  .7em;
+	font-weight: 400;
+	color: #999;
+	line-height:  1.7em;
+	text-align: right;
+
+}
+
+.
 
 h2 {
 	font-size: 2em;
@@ -38,11 +44,5 @@ h2 {
 
 /* Table Formatting */
 
-table {
-	width: 100%;
-}
 
-tr {
-	padding: 10px;
-}
 
