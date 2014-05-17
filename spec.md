@@ -7,6 +7,7 @@ CSS isn't working quite as expected, this screenshot is close to the desired out
 
 /* type */
 
+```css
 .haiku {
 	font-family: 'Crimson Text', serif;
 	font-size:  1.1em;
@@ -43,3 +44,4 @@ CSS isn't working quite as expected, this screenshot is close to the desired out
 	height: 153px;
 	padding: 5px;
 }
+```
